@@ -1,4 +1,4 @@
-# Sudoko-app
+# Suduko-app
 My first repo !<br>
 This is a suduko-app which uses turtle module for animations and numpy for backend processing.
 While using, make sure that the suduko_lev.py file is in the same directory as the main app file.
